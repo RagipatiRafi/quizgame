@@ -1,0 +1,47 @@
+body{
+    background:dimgray;
+}
+h1{
+    color:red;
+}
+h2{
+    color :blue;
+    background: yellow;
+}
+label{
+    color:chocolate;
+    font-size: 20px;
+}
+
+.login_div1,.login_div2{
+    background:white;
+    padding:10px;
+    float:none;
+    border-radius: 15px;
+}
+#player1_name, #player2_name{
+    display: inline-block;
+    margin-left:5px;
+}
+
+#output{
+    background:red;
+    border-radius: 10px;
+    border-top: 10px solid pink;
+    padding: 5px;
+    text-align: left;
+    float:none;
+}
+#password1,#password2{
+    background: black;
+    color:white
+        
+}
+.box{
+    background: yellow;
+    width:170px;
+    box-shadow: black;
+    border-radius:10px
+        text-align:center;
+    box-shadow: 3px 5px red;
+}
